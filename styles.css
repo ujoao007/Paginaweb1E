@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px #4A90E2;
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: #003366
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: #3399FF
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: #003366
 }
